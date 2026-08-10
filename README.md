@@ -1,20 +1,15 @@
-<p align="center">Student · Developer · Videographer · Photographer</p>
-<p align="center">France</p>
-
----
-
-## About
+# About
 
 Building things with code and with a camera. No noise, no filler — just clean execution.
 
 Hybrid profile: web development, video/photo production, and a bit of design. Currently pursuing a BUT MMI degree while working on personal tools and freelance projects.
 
-## Currently
+# Currently
 
 - **Clapper** — a terminal CLI for managing video shoot projects
 - **Re:frame** — a freelance studio concept for brand identity, web and content
 
-## Tech Stack
+# Tech Stack
 
 **Development**
 
@@ -35,7 +30,7 @@ Figma                      ████████████████░�
 Photography / Videography  ██████████████████░░   90%
 ```
 
-## Tools
+# Tools
 
 <p align="left">
   <a href="https://wordpress.org/"><img src="https://img.shields.io/badge/WordPress-000000?style=flat-square&logo=wordpress&logoColor=white" /></a>
