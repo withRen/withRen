@@ -1,0 +1,195 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300">
+<style>
+.t{font:700 13px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#fff;letter-spacing:3px}
+.l{font:400 13px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#c9d1d9}
+.p{font:700 13px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#fff}
+.s{opacity:0;animation:on .25s steps(2) forwards}
+@keyframes on{to{opacity:1}}
+</style>
+<g transform="translate(0,0)">
+<rect x="0.5" y="0.5" width="409" height="299" rx="8" fill="#0d1117" stroke="#30363d"/>
+<rect x="24" y="30" width="8" height="8" fill="#fff"/><text x="42" y="40" class="t">DEVELOPMENT</text>
+<line x1="24" y1="56" x2="386" y2="56" stroke="#21262d"/>
+<text x="24" y="84" class="l">JavaScript / TypeScript</text>
+<text x="386" y="84" class="p" text-anchor="end">80%</text>
+<rect x="24.0" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.00s"/>
+<rect x="42.2" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.04s"/>
+<rect x="60.4" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.07s"/>
+<rect x="78.6" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.11s"/>
+<rect x="96.8" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.14s"/>
+<rect x="115.0" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.18s"/>
+<rect x="133.2" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.21s"/>
+<rect x="151.4" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.25s"/>
+<rect x="169.6" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.28s"/>
+<rect x="187.8" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.32s"/>
+<rect x="206.0" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.35s"/>
+<rect x="224.2" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.39s"/>
+<rect x="242.4" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.42s"/>
+<rect x="260.6" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.46s"/>
+<rect x="278.8" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.49s"/>
+<rect x="297.0" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.53s"/>
+<rect x="315.2" y="94" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="333.4" y="94" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="351.6" y="94" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="369.8" y="94" width="15" height="10" rx="1" fill="#21262d"/>
+<text x="24" y="130" class="l">React / Next.js</text>
+<text x="386" y="130" class="p" text-anchor="end">70%</text>
+<rect x="24.0" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.15s"/>
+<rect x="42.2" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.18s"/>
+<rect x="60.4" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.22s"/>
+<rect x="78.6" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.26s"/>
+<rect x="96.8" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.29s"/>
+<rect x="115.0" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.33s"/>
+<rect x="133.2" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.36s"/>
+<rect x="151.4" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.40s"/>
+<rect x="169.6" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.43s"/>
+<rect x="187.8" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.47s"/>
+<rect x="206.0" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.50s"/>
+<rect x="224.2" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.54s"/>
+<rect x="242.4" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.57s"/>
+<rect x="260.6" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.61s"/>
+<rect x="278.8" y="140" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="297.0" y="140" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="315.2" y="140" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="333.4" y="140" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="351.6" y="140" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="369.8" y="140" width="15" height="10" rx="1" fill="#21262d"/>
+<text x="24" y="176" class="l">WordPress</text>
+<text x="386" y="176" class="p" text-anchor="end">80%</text>
+<rect x="24.0" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.30s"/>
+<rect x="42.2" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.33s"/>
+<rect x="60.4" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.37s"/>
+<rect x="78.6" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.41s"/>
+<rect x="96.8" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.44s"/>
+<rect x="115.0" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.47s"/>
+<rect x="133.2" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.51s"/>
+<rect x="151.4" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.55s"/>
+<rect x="169.6" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.58s"/>
+<rect x="187.8" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.61s"/>
+<rect x="206.0" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.65s"/>
+<rect x="224.2" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.69s"/>
+<rect x="242.4" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.72s"/>
+<rect x="260.6" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.76s"/>
+<rect x="278.8" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.79s"/>
+<rect x="297.0" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.82s"/>
+<rect x="315.2" y="186" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="333.4" y="186" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="351.6" y="186" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="369.8" y="186" width="15" height="10" rx="1" fill="#21262d"/>
+<text x="24" y="222" class="l">Node.js</text>
+<text x="386" y="222" class="p" text-anchor="end">60%</text>
+<rect x="24.0" y="232" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.45s"/>
+<rect x="42.2" y="232" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.48s"/>
+<rect x="60.4" y="232" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.52s"/>
+<rect x="78.6" y="232" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.55s"/>
+<rect x="96.8" y="232" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.59s"/>
+<rect x="115.0" y="232" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.62s"/>
+<rect x="133.2" y="232" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.66s"/>
+<rect x="151.4" y="232" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.69s"/>
+<rect x="169.6" y="232" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.73s"/>
+<rect x="187.8" y="232" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.77s"/>
+<rect x="206.0" y="232" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.80s"/>
+<rect x="224.2" y="232" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.83s"/>
+<rect x="242.4" y="232" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="260.6" y="232" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="278.8" y="232" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="297.0" y="232" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="315.2" y="232" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="333.4" y="232" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="351.6" y="232" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="369.8" y="232" width="15" height="10" rx="1" fill="#21262d"/>
+<text x="24" y="268" class="l">Docker</text>
+<text x="386" y="268" class="p" text-anchor="end">50%</text>
+<rect x="24.0" y="278" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.60s"/>
+<rect x="42.2" y="278" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.64s"/>
+<rect x="60.4" y="278" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.67s"/>
+<rect x="78.6" y="278" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.70s"/>
+<rect x="96.8" y="278" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.74s"/>
+<rect x="115.0" y="278" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.78s"/>
+<rect x="133.2" y="278" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.81s"/>
+<rect x="151.4" y="278" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.84s"/>
+<rect x="169.6" y="278" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.88s"/>
+<rect x="187.8" y="278" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.92s"/>
+<rect x="206.0" y="278" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="224.2" y="278" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="242.4" y="278" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="260.6" y="278" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="278.8" y="278" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="297.0" y="278" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="315.2" y="278" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="333.4" y="278" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="351.6" y="278" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="369.8" y="278" width="15" height="10" rx="1" fill="#21262d"/>
+</g>
+<g transform="translate(430,0)">
+<rect x="0.5" y="0.5" width="409" height="299" rx="8" fill="#0d1117" stroke="#30363d"/>
+<rect x="24" y="30" width="8" height="8" fill="#fff"/><text x="42" y="40" class="t">DESIGN &amp; MEDIA</text>
+<line x1="24" y1="56" x2="386" y2="56" stroke="#21262d"/>
+<text x="24" y="84" class="l">DaVinci Resolve</text>
+<text x="386" y="84" class="p" text-anchor="end">80%</text>
+<rect x="24.0" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.00s"/>
+<rect x="42.2" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.04s"/>
+<rect x="60.4" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.07s"/>
+<rect x="78.6" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.11s"/>
+<rect x="96.8" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.14s"/>
+<rect x="115.0" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.18s"/>
+<rect x="133.2" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.21s"/>
+<rect x="151.4" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.25s"/>
+<rect x="169.6" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.28s"/>
+<rect x="187.8" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.32s"/>
+<rect x="206.0" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.35s"/>
+<rect x="224.2" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.39s"/>
+<rect x="242.4" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.42s"/>
+<rect x="260.6" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.46s"/>
+<rect x="278.8" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.49s"/>
+<rect x="297.0" y="94" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.53s"/>
+<rect x="315.2" y="94" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="333.4" y="94" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="351.6" y="94" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="369.8" y="94" width="15" height="10" rx="1" fill="#21262d"/>
+<text x="24" y="130" class="l">Figma</text>
+<text x="386" y="130" class="p" text-anchor="end">80%</text>
+<rect x="24.0" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.15s"/>
+<rect x="42.2" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.18s"/>
+<rect x="60.4" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.22s"/>
+<rect x="78.6" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.26s"/>
+<rect x="96.8" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.29s"/>
+<rect x="115.0" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.33s"/>
+<rect x="133.2" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.36s"/>
+<rect x="151.4" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.40s"/>
+<rect x="169.6" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.43s"/>
+<rect x="187.8" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.47s"/>
+<rect x="206.0" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.50s"/>
+<rect x="224.2" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.54s"/>
+<rect x="242.4" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.57s"/>
+<rect x="260.6" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.61s"/>
+<rect x="278.8" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.64s"/>
+<rect x="297.0" y="140" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.68s"/>
+<rect x="315.2" y="140" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="333.4" y="140" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="351.6" y="140" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="369.8" y="140" width="15" height="10" rx="1" fill="#21262d"/>
+<text x="24" y="176" class="l">Photo / Videography</text>
+<text x="386" y="176" class="p" text-anchor="end">90%</text>
+<rect x="24.0" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.30s"/>
+<rect x="42.2" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.33s"/>
+<rect x="60.4" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.37s"/>
+<rect x="78.6" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.41s"/>
+<rect x="96.8" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.44s"/>
+<rect x="115.0" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.47s"/>
+<rect x="133.2" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.51s"/>
+<rect x="151.4" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.55s"/>
+<rect x="169.6" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.58s"/>
+<rect x="187.8" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.61s"/>
+<rect x="206.0" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.65s"/>
+<rect x="224.2" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.69s"/>
+<rect x="242.4" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.72s"/>
+<rect x="260.6" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.76s"/>
+<rect x="278.8" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.79s"/>
+<rect x="297.0" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.82s"/>
+<rect x="315.2" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.86s"/>
+<rect x="333.4" y="186" width="15" height="10" rx="1" fill="#ffffff" class="s" style="animation-delay:0.90s"/>
+<rect x="351.6" y="186" width="15" height="10" rx="1" fill="#21262d"/>
+<rect x="369.8" y="186" width="15" height="10" rx="1" fill="#21262d"/>
+</g>
+</svg>

@@ -1,52 +1,77 @@
-# About
+<p align="center">
+  <img src="./assets/banner.jpg" width="100%" alt="banner" />
+</p>
 
-Building things with code and with a camera. No noise, no filler — just clean execution.
+<!-- Liens : remplace les placeholders puis retire ce commentaire
+<p align="center">
+  <a href="https://tamhaev.studio"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/TON-PROFIL"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/TON-COMPTE"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:TON@MAIL.COM"><img src="https://img.shields.io/badge/MAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+-->
 
-Hybrid profile: web development, video/photo production, and a bit of design. Currently pursuing a BUT MMI degree while working on personal tools and freelance projects.
+---
 
-# Currently
+<table>
+<tr>
+<td valign="top">
 
-- **Clapper** — a terminal CLI for managing video shoot projects
-- **Re:frame** — a freelance studio concept for brand identity, web and content
+### About
 
-# Tech Stack
+Building things with code and with a camera. No noise, no filler - just clean execution.
 
-**Development**
+I write the code, shoot the footage and cut the edit. 3rd year **BUT MMI** student at IUT de Béziers, south of France.
 
-```
-JavaScript / TypeScript   ████████████████░░░░   80%
-React / Next.js           ██████████████░░░░░░   70%
-WordPress                 ████████████████░░░░   80%
-Node.js                   ████████████░░░░░░░░   60%
-Docker                    ██████████░░░░░░░░░░   50%
-```
+### Currently
 
-**Design & Media**
+- **Clapper** - a terminal app built with Node.js and Ink to run video shoots: shot lists, gear checklists, local storage, ASCII boot screen
+- **MMI Town** - Discord bot for a Minecraft server: account linking, player profiles, leaderboards, tickets and suggestions
+- **VR zombie survival** - a VR game in Unity, currently in the game design phase
 
-```
-Adobe Premiere Pro         ██████████████████░░   90%
-DaVinci Resolve            ████████████████░░░░   80%
-Figma                      ████████████████░░░░   80%
-Photography / Videography  ██████████████████░░   90%
-```
+</td>
+<!-- Photo à droite : ajoute assets/side.jpg puis décommente
+<td width="35%" align="center" valign="middle">
+    <img src="./assets/side.jpg" width="200" alt="" />
+</td>
+-->
+</tr>
+</table>
 
-# Tools
+---
 
-<p align="left">
-  <a href="https://wordpress.org/"><img src="https://img.shields.io/badge/WordPress-000000?style=flat-square&logo=wordpress&logoColor=white" /></a>
-  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Photoshop-000000?style=flat-square&logo=adobephotoshop&logoColor=white" /></a>
-  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://img.shields.io/badge/Illustrator-000000?style=flat-square&logo=adobeillustrator&logoColor=white" /></a>
-  <a href="https://www.adobe.com/products/premiere.html"><img src="https://img.shields.io/badge/Premiere%20Pro-000000?style=flat-square&logo=adobepremierepro&logoColor=white" /></a>
-  <a href="https://www.blackmagicdesign.com/products/davinciresolve"><img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=flat-square&logo=davinciresolve&logoColor=white" /></a>
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+  <img src="./assets/skills.svg" width="100%" alt="skills" />
+</p>
+
+<h3 align="center">Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/WORDPRESS-000000?style=for-the-badge&logo=wordpress&logoColor=white" />
   <br/>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" /></a>
-  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></a>
-  <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white" /></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAVINCI%20RESOLVE-000000?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+  <img src="https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
 ---
 
-<p align="center"><i>Precision over noise.</i></p>
+<h3 align="center">Statistics</h3>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=withRen&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=withRen&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=withRen&bg_color=0d1117&color=c9d1d9&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" />
+</p>
