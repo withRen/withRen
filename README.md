@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.jpg" width="100%" alt="banner" />
+  <img src="./assets/banner.svg" width="100%" alt="banner" />
 </p>
 
 <!-- Liens : remplace les placeholders puis retire ce commentaire
