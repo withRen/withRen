@@ -68,10 +68,5 @@ I write the code, shoot the footage and cut the edit. 3rd year **BUT MMI** stude
 <h3 align="center">Statistics</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=withRen&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=withRen&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=withRen&bg_color=0d1117&color=c9d1d9&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" />
+  <img src="./assets/stats.svg" width="100%" alt="GitHub stats" />
 </p>
